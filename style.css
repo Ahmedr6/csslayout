@@ -1,0 +1,253 @@
+body {
+    background-color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+
+
+}
+
+.LogoTitle {}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.nav-links {
+    margin: 10px;
+    padding: 5px;
+    color: #00b39b;
+
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.logoh {
+    background-color: white;
+
+}
+
+.Docplaner {
+
+    color: #00b39b;
+    width: 268px;
+    height: 33px;
+
+}
+
+.LogoSlugan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 60px;
+
+
+}
+
+.slugan {
+
+    color: #00b39b;
+    font-size: 30px;
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-weight: 300;
+
+
+}
+
+.description {
+    color: #747474;
+    font-size: 20px;
+
+
+    margin: 40px;
+
+}
+
+.summary {
+    display: flex;
+
+}
+
+.for1 {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 260px;
+    height: 302px;
+    background-color: #00b39b;
+    margin: 20px;
+    padding: 20px;
+}
+
+.BoxHead {
+    font-family: Work Sans, Arial, sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+
+.boxContent {
+
+    color: white;
+    font-size: 23px;
+}
+
+.for2 {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 260px;
+    height: 302px;
+    background-color: #3d83df;
+    padding: 20px;
+    margin: 20px;
+}
+
+.for3 {
+    margin: 20px;
+    color: white;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 260px;
+    height: 302px;
+    background-color: #1b2734;
+    padding: 20px;
+
+}
+
+.for {
+    display: flex;
+    margin: 40px;
+    justify-content: center;
+
+
+
+
+}
+
+.logo {}
+
+.slugan {
+    display: flex;
+    justify-content: center;
+
+}
+
+.define {
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+}
+
+.section3 {
+    display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+    
+  }
+
+
+.logos {
+
+    display: flex;
+  gap: 4rem;
+  flex-wrap: wrap;
+    
+   
+}
+.section4{display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55px;
+    background-color: #d0faf4;
+    padding-left: 50px;
+  }
+
+  .section4header h2 {
+    color: #00b39b;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    padding-left: 50px;
+  }
+
+  .section4header p {
+    padding-left: 50px;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #747474;
+    padding-bottom: 50px;}
+
+    img {
+        vertical-align: middle;
+      }
+      img {
+        border: 0;
+      }
+
+      .section4fourparts {
+        display: flex;
+        margin-right: 50px;
+        height: 100%;
+        justify-content: space-around;
+        margin-left: 100px;}
+
+        #leader, #patients, #appointments, #doctors {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background-color: #fff;
+            text-align: center;
+            width: 220px;
+            border-radius: 2px;}
+
+            .section4fourparts div {
+                height: 500px;
+                width: 250px;
+              }
+              .first2 {
+                display: flex;
+                flex-direction: column;
+                margin-top: 20px;
+                margin-right: 20px;}
+
+
+                .section4fourparts div {
+                    height: 500px;
+                    width: 250px;
+                  }
+                  .second2 {
+                    display: flex;
+                    flex-direction: column;
+                    margin-bottom: 20px;
+                  }
+                  .section4 {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    margin-top: 55px;
+                    background-color: #d0faf4;
+                    padding-left: 50px ;}
